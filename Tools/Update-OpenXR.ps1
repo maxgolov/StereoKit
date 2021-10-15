@@ -1,3 +1,5 @@
+$env:Path += ";C:\Program Files\CMake\bin"
+
 Push-Location -Path $PSScriptRoot
 
 # Check the version installed
